@@ -1,0 +1,10 @@
+body{
+font-size: 95%;
+font-family:"MS ゴシック",sans-serif ;
+line-height: 1.5;
+color:#333333;
+}
+#menu li{
+ list-style-type: none;   
+ display: inline;
+}
